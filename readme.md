@@ -31,11 +31,11 @@ A simple Node.js command-line interface to fetch and display recent activity for
 ## Example Output
 
 ```text
-Enter Github username : andiartori
+Enter Github username : digiT000
 
 Recent GitHub Activity:
 
-- Pushed 3 commit(s) to andiartori/navigation_bar_collection
-- Created branch/tag in andiartori/navigation_bar_collection
-- Pushed 2 commit(s) to andiartori/applikasi_cbt
+- Pushed 3 commit(s) to digiT000/navigation_bar_collection
+- Created branch/tag in digiT000/navigation_bar_collection
+- Pushed 2 commit(s) to digiT000/applikasi_cbt
 ```
